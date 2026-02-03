@@ -1,0 +1,82 @@
+{
+    "balla": {
+        "sinhala": "බල්ලා",
+        "phonemes": ["ba", "l", "la:"]
+    },
+    "ibba": {
+        "sinhala": "ඉබ්බා",
+        "phonemes": ["i", "b", "ba:"]
+    },
+    "dath": {
+        "sinhala": "දත්",
+        "phonemes": ["da", "th"]
+    },
+    "poddak": {
+        "sinhala": "පොඩ්ඩක්",
+        "phonemes": ["po", "d", "da", "k"]
+    },
+    "samanalaya": {
+        "sinhala": "සමනලයා",
+        "phonemes": ["sa", "ma", "na", "la", "ya:"]
+    },
+    "maduruwa": {
+        "sinhala": "මදුරුවා",
+        "phonemes": ["ma", "du", "ru", "wa:"]
+    },
+    "lunu": {
+        "sinhala": "ලූනු",
+        "phonemes": ["lu:", "nu"]
+    },
+    "annasi": {
+        "sinhala": "අන්නාසි",
+        "phonemes": ["a", "n", "na:", "si"]
+    },
+    "hawa": {
+        "sinhala": "හාවා",
+        "phonemes": ["ha:", "wa:"]
+    },
+    "yathura": {
+        "sinhala": "යතුර",
+        "phonemes": ["ya", "thu", "ra"]
+    },
+    "tharuwa": {
+        "sinhala": "තරුව",
+        "phonemes": ["tha", "ru", "wa"]
+    },
+    "oluwa": {
+        "sinhala": "ඔලුව",
+        "phonemes": ["o", "lu", "wa"]
+    },
+    "ahasa": {
+        "sinhala": "අහස",
+        "phonemes": ["a", "ha", "sa"]
+    },
+    "gasa": {
+        "sinhala": "ගස",
+        "phonemes": ["ga", "sa"]
+    },
+    "kaha": {
+        "sinhala": "කහ",
+        "phonemes": ["ka", "ha"]
+    },
+    "saban": {
+        "sinhala": "සබන්",
+        "phonemes": ["sa", "ba", "n"]
+    },
+    "aiskrim": {
+        "sinhala": "අයිස්ක්‍රීම්",
+        "phonemes": ["a", "i", "s", "kri:", "m"]
+    },
+    "sapaththuwa": {
+        "sinhala": "සපත්තුව",
+        "phonemes": ["sa", "pa", "th", "thu", "wa"]
+    },
+    "prashna": {
+        "sinhala": "ප්‍රශ්න",
+        "phonemes": ["pra", "sh", "na"]
+    },
+    "kridawa": {
+        "sinhala": "ක්‍රීඩාව",
+        "phonemes": ["kri:", "da:", "wa"]
+    }
+}
